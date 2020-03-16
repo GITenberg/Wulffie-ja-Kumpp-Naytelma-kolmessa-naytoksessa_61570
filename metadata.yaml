@@ -1,5 +1,5 @@
 _repo: Wulffie-ja-Kumpp-Naytelma-kolmessa-naytoksessa_61570
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Aho, Juhani
@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - http://fi.wikipedia.org/wiki/Juhani_Aho
     - http://en.wikipedia.org/wiki/Juhani_Aho
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lie, Jonas
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jonas_Lie_(writer)
     - https://fi.wikipedia.org/wiki/Jonas_Lie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61570#Wulffie-ja-Kumpp-Naytelma-kolmessa-naytoksessa
 gutenberg_issued: '2020-03-07'
 gutenberg_type: Text
 identifiers:
